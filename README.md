@@ -2,7 +2,7 @@
 
 Bachelor's thesis project (B.Sc. Forestry, Tribhuvan University, 2022). Land cover change in Pokhara Metropolitan City was mapped with Google Earth Engine and a Random Forest classifier, then linked to a household survey on water scarcity.
 
-> **Note:** The original GEE script was lost, and the code in `scripts/` is a partial reconstruction that is not verified against the thesis results. The maps and tables below come from the thesis. My newer, working project is here: **[link to new project]
+> **Note:** The original GEE script was lost, and the code in `scripts/` is a partial reconstruction that is not verified against the thesis results. The maps and tables below come from the thesis. My newer, working project is here: **[[link to new project](https://github.com/mrmissionshrestha98/bharatpur-lulc-change-gee)]
 ## Land Cover Maps
 <img width="554" height="402" alt="image" src="https://github.com/user-attachments/assets/3ae85ad5-2ce9-4582-937f-c7bd51dc0c1b" />
 <img width="554" height="419" alt="image" src="https://github.com/user-attachments/assets/88546a0e-36c8-4760-8032-e3e5a97c5199" />
